@@ -255,7 +255,7 @@ pipeline {
 
 Am creat în directorul `lab04` fișierul `readme.md` care conține descrierea pas cu pas a executării proiectului.
 
-## Răspunsuri la întrebări:
+## Răspunsuri la întrebări
 
 1. Avantajele utilizării Jenkins pentru automatizarea sarcinilor DevOps?
 
