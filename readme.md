@@ -1,4 +1,4 @@
-# Lucrare de laborator Nr.3: Task Scheduler (cron) Configuration
+# Lucrare de laborator Nr.4: Configurarea Jenkins pentru automatizarea sarcinilor DevOps
 # Covrig Andrei, grupa I2301
 # 2025
 
